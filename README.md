@@ -3,10 +3,10 @@
 这是[AOD-Net : All-in-One Network for Dehazing](https://arxiv.org/abs/1707.06543)的一个实现在Python3上，Pytorch。该模型可以去除雾霾、烟雾甚至水的杂质。
 
 The repository includes:
-*AOD网络的源代码
-*基于[NYU Depth V2]的合成模糊图像构建代码，下面可以下载
-*hazy数据集的训练代码
-*AOD网络的预训练模型
+* AOD网络的源代码
+* 基于[NYU Depth V2]的合成模糊图像构建代码，下面可以下载
+* hazy数据集的训练代码
+* AOD网络的预训练模型
 
 # Requirements
 Python 3.6, Pytorch 0.4.0 and other common packages
