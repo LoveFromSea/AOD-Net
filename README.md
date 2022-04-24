@@ -1,6 +1,6 @@
 # AOD-Net by Pytorch 该Readme就是翻译他的
 
-这是[AOD-Net : All-in-One Network for Dehazing](https://arxiv.org/abs/1707.06543)的一个实现在Python3上，Pytorch。该模型可以去除雾霾、烟雾甚至水的杂质。
+这是[AOD-Net : All-in-One Network for Dehazing](https://github.com/weber0522bb/AODnet-by-pytorch)的一个实现在Python3上，Pytorch。该模型可以去除雾霾、烟雾甚至水的杂质。
 
 The repository includes:
 * AOD网络的源代码
