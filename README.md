@@ -1,12 +1,12 @@
-# AOD-Net by Pytorch 该Readme就是翻译他的
+# AOD-Net by Pytorch
 
 这是[AOD-Net : All-in-One Network for Dehazing](https://github.com/weber0522bb/AODnet-by-pytorch)的一个实现在Python3上，Pytorch。该模型可以去除雾霾、烟雾甚至水的杂质。
 
 The repository includes:
-* AOD网络的源代码
-* 基于[NYU Depth V2]的合成模糊图像构建代码，下面可以下载
-* hazy数据集的训练代码
-* AOD网络的预训练模型
+*AOD网络的源代码
+*基于[NYU Depth V2]的合成模糊图像构建代码，下面可以下载
+*hazy数据集的训练代码
+*AOD网络的预训练模型
 
 # Requirements
 Python 3.6, Pytorch 0.4.0 and other common packages
@@ -16,7 +16,7 @@ Python 3.6, Pytorch 0.4.0 and other common packages
 * 下载 [NYU Depth V2 labeled dataset](https://pan.baidu.com/s/1_wtUSDDgy-Vai40H5c4pwg)
 提取码：6xho
 
-这里不提供我修改的代码了，源代码需要的话直接去[人家Github](https://github.com/weber0522bb/AODnet-by-pytorch)上找吧.以下是我可以运行的命令行参数更改。可以下他的源码然后用我命令行参数。然后他还有有几个包有问题需要更新，先建个Repo占个坑吧。但是最近搞得太忙了，自己的训练当时用一半数据集跑出来效果太差了。(老板不给服务器，用1060 6G跑的，TAT)
+这里不提供我修改的代码了，源代码需要的话直接去[人家Github](https://github.com/weber0522bb/AODnet-by-pytorch)上找吧.以下是我可以运行的命令行参数更改。他有几个包有问题。但是最近搞得太忙了，自己的训练当时用一半数据集跑出来效果太差了。(老板不给服务器，用1060 6G跑的，TAT)
 
 # Training Part
 ## Dateset Setup
