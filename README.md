@@ -19,6 +19,7 @@ Python 3.6, Pytorch 0.4.0 and other common packages
 这里不提供我修改的代码了，源代码需要的话直接去[人家Github](https://github.com/weber0522bb/AODnet-by-pytorch)上找吧.以下是我可以运行的命令行参数更改。他有几个包有问题。但是最近搞得太忙了，自己的训练当时用一半数据集跑出来效果太差了。(老板不给服务器，用1060 6G跑的，TAT)
 
 # Training Part
+这一块如何使用我会更新CSDN说明一下的
 ## Dateset Setup
 1. Clone this repository
 2. Create dataset from the repository root directory
